@@ -14,4 +14,4 @@ https://ru.yougile.com/team/da5e671618d7/Станкевич
 Технологический стек
 Backend: Java + Spring Boot + PostgreSQL + maven + PostgreSQL
 
-Frontend: React + Type Script + CSS 4
+Frontend: React + Type Script + Tailwind CSS 4
